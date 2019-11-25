@@ -2,3 +2,4 @@ This is Paul's second file
 This is Alice modifying file2
 Alice adds another line
 Oh, I hoped Alice had something interesting to tell me
+Hey, it's Alice. Are you upset, Paul?
